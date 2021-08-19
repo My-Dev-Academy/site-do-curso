@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@600;800;900&display=swap');
+
+.mes {
+    padding: 24px;
+}
+
+.dia {
+    text-align: center;
+}
+
+.dias-semana th {
+    text-align: center;
+}
+
+.estrutura-mes {
+    border: 4px solid rgba(212, 206, 206, 0.836) ;
+}
+
+.nome-mes {
+    font-family: 'Roboto Slab', serif;
+}
+
+.subtitulo {
+    font-size: medium;
+    color: rgb(90, 90, 90);
+}
